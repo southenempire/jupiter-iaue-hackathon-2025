@@ -1,4 +1,4 @@
-# 🚀 Jupiter IAUE Hackathon 2025 - Starter Templates
+# Jupiter IAUE Hackathon 2025 - Starter Templates
 
 Welcome to the Jupiter Campus Hackathon at Ignatius Ajuru University! 
 
@@ -7,7 +7,7 @@ This repository contains **3 starter templates** to help you build amazing proje
 ## 🎯 Choose Your Project
 
 ### 1️⃣ CLI Token Swapper
-**Difficulty:** ⭐⭐ Beginner  
+**Difficulty:**  Beginner  
 **Tech:** Node.js + Jupiter Quote API  
 **Goal:** Build a command-line trading tool
 
@@ -16,7 +16,7 @@ This repository contains **3 starter templates** to help you build amazing proje
 ---
 
 ### 2️⃣ Arbitrage Bot
-**Difficulty:** ⭐⭐⭐ Intermediate  
+**Difficulty:** Intermediate  
 **Tech:** Node.js + Jupiter Price API  
 **Goal:** Detect profitable trading opportunities
 
@@ -25,7 +25,7 @@ This repository contains **3 starter templates** to help you build amazing proje
 ---
 
 ### 3️⃣ Whale Watcher Dashboard
-**Difficulty:** ⭐⭐⭐ Intermediate  
+**Difficulty:** Intermediate  
 **Tech:** HTML/CSS/JavaScript + Jupiter APIs  
 **Goal:** Track large trades in real-time
 
@@ -33,7 +33,7 @@ This repository contains **3 starter templates** to help you build amazing proje
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### For CLI Projects (Swapper & Arbitrage Bot)
 
@@ -99,7 +99,7 @@ No installation needed - runs directly in browser!
 
 ---
 
-## 🎁 What's Included
+##  What's Included
 
 Each template comes with:
 - ✅ Working starter code
