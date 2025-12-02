@@ -1,0 +1,13 @@
+{
+  "name": "jupiter-arbitrage-bot",
+  "version": "1.0.0",
+  "description": "Arbitrage Bot for Jupiter Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["jupiter", "solana", "arbitrage", "dex"],
+  "author": "IAUE Hackathon Team",
+  "license": "MIT",
+  "dependencies": {}
+}
