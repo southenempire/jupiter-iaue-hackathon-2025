@@ -1,0 +1,13 @@
+{
+  "name": "jupiter-cli-swapper",
+  "version": "1.0.0",
+  "description": "CLI Token Swapper for Jupiter Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["jupiter", "solana", "dex", "swap"],
+  "author": "IAUE Hackathon Team",
+  "license": "MIT",
+  "dependencies": {}
+}
